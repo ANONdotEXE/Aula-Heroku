@@ -24,7 +24,8 @@ body {
 
 #menu ul h1 {
     position:absolute;
-    padding-bottom: 100%;
+    color: #fff;
+    padding-top: 100%;
 }
 
 #menu ul li {
