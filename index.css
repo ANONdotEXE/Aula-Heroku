@@ -25,6 +25,7 @@ body {
 #menu ul h1 {
     margin: 70%;
     color: #fff;
+    display: inline;
 
 }
 
