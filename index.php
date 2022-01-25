@@ -19,6 +19,7 @@
 <div>
         <nav id="menu">
             <ul>
+                <h1>Feito por: Lucas Oliveira Assis</h1>
                 <li>Lubank</li>
                 <li><a>Home</a></li>
                 <li><a>Cadastrar</a></li>
