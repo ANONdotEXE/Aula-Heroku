@@ -17,7 +17,7 @@
     <div>
         <nav id="menu">
             <ul>
-                <li>Feito por: Lucas Oliveira Assis</li>
+                <li><h1>Feito por: Lucas Oliveira Assis</h1></li>
                 <li>Lubank</li>
                 <li><a>Home</a></li>
                 <li><a></a></li>
