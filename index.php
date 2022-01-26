@@ -17,7 +17,6 @@
     <div>
         <nav id="menu">
             <ul>
-                <li><h1>Feito por: Lucas Oliveira Assis</h1></li>
                 <li>Lubank</li>
                 <li><a>Home</a></li>
                 <li><a></a></li>
@@ -38,6 +37,9 @@
         <br>
         <div id="texto2">
             <h2>A conta que vai levar você <br>ao controle da sua vida <br> financeira</h2>
+        </div>
+        <div id="nome">
+            <h1>Feito por: Lucas Oliveira Assis</h1>
         </div>
     </div>
 </body>
