@@ -41,14 +41,14 @@
 
         #menu ul li {
             font-size: 25px;
-            color: #000;
+            color: #fff;
             padding: 10px;
             display: inline;
             font-family: 'Valorant';
         }
 
         #menu ul li a {
-            color: #fff;
+            color: #000;
             padding: 20px;
             display: inline-block;
             text-decoration: none;
