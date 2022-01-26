@@ -39,7 +39,7 @@
             <h2>A conta que vai levar você <br>ao controle da sua vida <br> financeira</h2>
         </div>
         <div id="nome">
-            <h1>Feito por: Lucas Oliveira Assis</h1>
+            <h1>Feito por: <li>Lucas Oliveira Assis<li></h1>
         </div>
     </div>
 </body>
