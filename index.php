@@ -41,7 +41,7 @@
 
         #menu ul li {
             font-size: 25px;
-            color: #fff;
+            color: #000;
             padding: 10px;
             display: inline;
             font-family: 'Valorant';
