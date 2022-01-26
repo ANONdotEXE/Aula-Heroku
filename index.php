@@ -36,7 +36,7 @@
         }
 
         #menu ul h1 {
-            margin: 70%;
+            margin: 80%;
         }
 
         #menu ul li {
